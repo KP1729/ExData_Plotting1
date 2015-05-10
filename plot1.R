@@ -12,4 +12,4 @@ hist(elecpwr2$Global_active_power, xlab="Global Active Power (kilowatts)", main=
      col="red")
 
 dev.copy(png, file="./plot1.png")
-dev.off()
+dev.off() 
